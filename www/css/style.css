@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+.button {
+    position:absolute;
+    right: 5px;
+}
+p img{
+    max-height: 80vh;
+    max-width: 100vw;
+}
+
